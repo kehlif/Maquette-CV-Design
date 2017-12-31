@@ -492,4 +492,8 @@ textarea{
   margin-left:20px;
   margin-top:15px;
 }
+
+textarea::placeholder{
+  color:#c0392b;
+}
 }
